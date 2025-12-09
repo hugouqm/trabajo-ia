@@ -1,0 +1,14 @@
+site_name: Trabajo IA
+
+theme: 
+  name: material
+  favicon: img/favicon.png
+
+nav: 
+  - Inicio: index.md 
+  - Origenes: origen.md
+  - Vida Cotidiana: vida_cotidiana.md
+  - Evolución: evo.md
+  - Impacto: 
+    - 5.1 - Impacto: seccion5/subseccion5_1.md
+    - 5.2 - Impacto: seccion5/subseccion5_2.md
