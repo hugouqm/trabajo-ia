@@ -4,6 +4,7 @@ docs_dir: 'md'
 site_dir: 'docs'
 
 theme: 
+  name: material
   favicon: img/favicon.png
 
 nav: 
